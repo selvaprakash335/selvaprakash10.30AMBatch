@@ -17,6 +17,7 @@ public class Ktm implements Bike {
 		Ktm a=new Ktm();
 		a.speed();
 		a.cost();
+		a.cost();
 	}
 
 }
