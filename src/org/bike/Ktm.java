@@ -16,8 +16,12 @@ public class Ktm implements Bike {
 	public static void main(String[] args) {
 		Ktm a=new Ktm();
 		a.speed();
+
 		a.cost();
 		a.cost();
+
+		
+
 	}
 
 }
